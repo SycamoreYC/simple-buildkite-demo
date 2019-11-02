@@ -6,3 +6,4 @@
 1. make a pipeline 
 2. start a new agent with tags
 3. set pipeline's tags
+4. set a block step
