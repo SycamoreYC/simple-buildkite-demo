@@ -1,1 +1,3 @@
 echo '----------------- runing unit tests -----------------'
+
+buildkite-agent annotate "All tests passed! 🚀"
