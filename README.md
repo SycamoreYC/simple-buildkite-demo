@@ -7,3 +7,4 @@
 2. start a new agent with tags
 3. set pipeline's tags
 4. set a block step
+5. set step as code
